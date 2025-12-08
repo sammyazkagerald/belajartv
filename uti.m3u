@@ -12,5 +12,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=yNKvkPJl-tg
 #EXTINF:-1 tvg-name="i-NewsTV" group-title="Lokal TV", i-NewsTV
 plugin://plugin.video.youtube/?action=play_video&videoid=PjrGBY2qiSw
 
+#EXTINF:-1 tvg-name="Sindo News TV" group-title="Lokal TV", Sindo News TV
+plugin://plugin.video.youtube/?action=play_video&videoid=8S8AjgkB9N0
+
+#EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="Lokal TV", Liputan6 SCTV
+plugin://plugin.video.youtube/?action=play_video&videoid=Nbsr3aZIDl8
+
 #EXTINF:-1 tvg-name="Rodja TV" group-title="Lokal TV", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
