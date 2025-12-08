@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CNN Indonesia TV" group-title="Lokal TV", CNN Indonesia TV
+#EXTINF:-1 tvg-name="CNN Indonesia TV" group-title="TV Nasional", CNN Indonesia TV
 plugin://plugin.video.youtube/?action=play_video&videoid=a0vX_Qt0gDQ
 
-#EXTINF:-1 tvg-name="Kompas TV" group-title="Lokal TV", Kompas TV
+#EXTINF:-1 tvg-name="Kompas TV" group-title="TV Nasional", Kompas TV
 plugin://plugin.video.youtube/?action=play_video&videoid=DOOrIxw5xOw
 
-#EXTINF:-1 tvg-name="TVONE" group-title="Lokal TV", TVONE
+#EXTINF:-1 tvg-name="TVONE" group-title="TV Nasional", TVONE
 plugin://plugin.video.youtube/?action=play_video&videoid=yNKvkPJl-tg
 
-#EXTINF:-1 tvg-name="i-NewsTV" group-title="Lokal TV", i-NewsTV
+#EXTINF:-1 tvg-name="i-NewsTV" group-title="TV Nasional", i-NewsTV
 plugin://plugin.video.youtube/?action=play_video&videoid=PjrGBY2qiSw
 
-#EXTINF:-1 tvg-name="Sindo News TV" group-title="Lokal TV", Sindo News TV
+#EXTINF:-1 tvg-name="Sindo News TV" group-title="TV Nasional", Sindo News TV
 plugin://plugin.video.youtube/?action=play_video&videoid=8S8AjgkB9N0
 
-#EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="Lokal TV", Liputan6 SCTV
+#EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="TV Nasional", Liputan6 SCTV
 plugin://plugin.video.youtube/?action=play_video&videoid=Nbsr3aZIDl8
 
-#EXTINF:-1 tvg-name="Rodja TV" group-title="Lokal TV", Rodja TV
+#EXTINF:-1 tvg-name="Rodja TV" group-title="Religi", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
