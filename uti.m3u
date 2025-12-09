@@ -18,10 +18,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=8S8AjgkB9N0
 #EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="TV Nasional", Liputan6 SCTV
 plugin://plugin.video.youtube/?action=play_video&videoid=Nbsr3aZIDl8
 
-#EXTINF:-1 tvg-name="Makkah TV" group-title="TV Nasional", Makkah TV
+#EXTINF:-1 tvg-name="Makkah TV" group-title="Religi", Makkah TV
 plugin://plugin.video.youtube/?action=play_video&videoid=PfrBk8tPF7c
 
-#EXTINF:-1 tvg-name="SunnaTV" group-title="TV Nasional", SunnaTV
+#EXTINF:-1 tvg-name="SunnaTV" group-title="Religi", SunnaTV
 plugin://plugin.video.youtube/?action=play_video&videoid=zZmE-NRMpxo
 
 #EXTINF:-1 tvg-name="Rodja TV" group-title="Religi", Rodja TV
