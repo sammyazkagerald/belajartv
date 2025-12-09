@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=DOOrIxw5xOw
 plugin://plugin.video.youtube/?action=play_video&videoid=yNKvkPJl-tg
 
 #EXTINF:-1 tvg-name="i-NewsTV" group-title="TV Nasional", i-NewsTV
-plugin://plugin.video.youtube/?action=play_video&videoid=PjrGBY2qiSw
+plugin://plugin.video.youtube/?action=play_video&videoid=4bmzz-Hncg4
 
 #EXTINF:-1 tvg-name="Sindo News TV" group-title="TV Nasional", Sindo News TV
 plugin://plugin.video.youtube/?action=play_video&videoid=8S8AjgkB9N0
