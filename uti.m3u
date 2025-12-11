@@ -47,7 +47,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-name="i-NewsTV" group-title="TV Nasional", i-NewsTV
+#EXTINF:-1 tvg-name="i-NewsTV" group-title="Nasional", i-NewsTV
 plugin://plugin.video.youtube/?action=play_video&videoid=PL5pOe5tQLw
 
 #############################
@@ -63,7 +63,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="TV Nasional", Liputan6 SCTV
+#EXTINF:-1 tvg-name="Liputan6 SCTV" group-title="Nasional", Liputan6 SCTV
 plugin://plugin.video.youtube/?action=play_video&videoid=Nbsr3aZIDl8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
@@ -92,7 +92,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch108.m3u8
 
-#EXTINF:-1 tvg-name="TVONE" group-title="TV Nasional", TVONE
+#EXTINF:-1 tvg-name="TVONE" group-title="Nasional", TVONE
 plugin://plugin.video.youtube/?action=play_video&videoid=yNKvkPJl-tg
 
 #EXTINF:-1 group-title="Nasional" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
@@ -133,7 +133,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 ######## MEDIA GROUP ########
 #############################
 
-#EXTINF:-1 tvg-name="METRO TV" group-title="TV Nasional", METRO TV
+#EXTINF:-1 tvg-name="METRO TV" group-title="Nasional", METRO TV
 plugin://plugin.video.youtube/?action=play_video&videoid=-CwtcKDaaLA
 
 #EXTINF:-1 group-title="Nasional" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
@@ -153,7 +153,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 ######## KOMPAS GRAMEDIA ########
 #################################
 
-#EXTINF:-1 tvg-name="Kompas TV" group-title="TV Nasional", Kompas TV
+#EXTINF:-1 tvg-name="Kompas TV" group-title="Nasional", Kompas TV
 plugin://plugin.video.youtube/?action=play_video&videoid=DOOrIxw5xOw
 
 
@@ -1188,7 +1188,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-name="Sindo News TV" group-title="TV Nasional", Sindo News TV
+#EXTINF:-1 tvg-name="Sindo News TV" group-title="Nasional", Sindo News TV
 plugin://plugin.video.youtube/?action=play_video&videoid=8S8AjgkB9N0
 
 #EXTINF:-1 group-title="Berita" tvg-id="nhkworldjapan.jp" tvg-logo="https://iptv.urfan.web.id/logo/nhkworld.png",NHK World Japan
