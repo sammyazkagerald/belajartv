@@ -72,6 +72,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="MDTV" group-title="Nasional", MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-name="Rodja TV" group-title="Religi", Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-name="AshiilTV" group-title="Religi", AshiilTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 tvg-name="RasyaadTV" group-title="Religi",, RasyaadTV
+plugin://plugin.video.youtube/?action=play_video&videoid=trmOGXbo3KU
+
+#EXTINF:-1 tvg-name="Makkah TV YT" group-title="Religi", Makkah TV YT
+plugin://plugin.video.youtube/?action=play_video&videoid=PfrBk8tPF7c
+
+#EXTINF:-1 tvg-name="SunnaTV" group-title="Religi", SunnaTV
+plugin://plugin.video.youtube/?action=play_video&videoid=zZmE-NRMpxo
 
 
 
