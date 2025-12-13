@@ -1,5 +1,9 @@
 #EXTM3U
 
+##########################
+######## NASIONAL ########
+##########################
+
 #EXTINF:-1 group-title="Nasional" tvg-id="SCTV.id", SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -41,7 +45,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=-CwtcKDaaLA
 #EXTINF:-1 tvg-name="Kompas TV" group-title="Nasional", Kompas TV
 plugin://plugin.video.youtube/?action=play_video&videoid=DOOrIxw5xOw
 
-#EXTINF:-1 group-title="Nasional" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
+#EXTINF:-1 group-title="Nasional" tvg-id="nusantaratv.id",Nusantara TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -72,9 +76,34 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="MDTV" group-title="Nasional", MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|User-Agent=Mozilla/5.0
 
+######################
+######## ANAK ########
+######################
+
+#EXTINF:-1 group-title="Anak" tvg-id="ebskids.kr", EBS Kids
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
 #EXTINF:-1 group-title="Anak" tvg-id="spacetoonarabic.ae",Spacetoon
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="Anak" tvg-id="MyKidz.id", My Kidz
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="Anak" tvg-id="moonbugkids.us", Moonbug Kids
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Anak" tvg-id="zoomoo.sg", Zoo Moo
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+##########################
+########  RELIGI  ########
+##########################
 
 #EXTINF:-1 tvg-name="Rodja TV" group-title="Religi", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
