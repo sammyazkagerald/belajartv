@@ -72,13 +72,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="MDTV" group-title="Nasional", MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1 group-title="Anak" tvg-id="spacetoonarabic.ae",Spacetoon
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
 #EXTINF:-1 tvg-name="Rodja TV" group-title="Religi", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-name="AshiilTV" group-title="Religi", AshiilTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-name="RasyaadTV" group-title="Religi",, RasyaadTV
+#EXTINF:-1 tvg-name="RasyaadTV" group-title="Religi", RasyaadTV
 plugin://plugin.video.youtube/?action=play_video&videoid=trmOGXbo3KU
 
 #EXTINF:-1 tvg-name="Makkah TV YT" group-title="Religi", Makkah TV YT
